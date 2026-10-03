@@ -1,4 +1,4 @@
-# LapSim
+# Predictive LapSim
 
 A lap simulation for the team's Formula SAE cars (ICE and EV). It predicts lap time, speed, energy use, pack current, state of charge and pack temperature for the acceleration, skidpad, autocross and endurance events.
 
